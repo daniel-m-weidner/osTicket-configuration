@@ -62,11 +62,11 @@ To get there, first make sure you are now in the Admin Panel. To ensure this, ch
 
 Why do we need Departments? They are often there in order to ensure the ticket will show up for the correct department within a company. Let's assume there is a security issue within the network. To ensure effective and secure operations it is imperative that the Cybersecurity Dept. will see and respond to the ticket. Maybe the Manager would like to be able to see all tickets. You will be able to find find the Departments options right next to the Roles, Agents>Departments. Notice that the program has prepared a "Maintenance" and "Support" department already, which is quite useful. Select "Add New Department". Let's create the Administrator Department. First, we choose to make it a "Top Level Department", Choose your name, I used the name Admins for this. There are options for assigning SLA's and Schedules, etc. here, however, we first have to configure more parameters for this. As you can notice, there are many options to customize the department for many needs. I will choose that only the department itself will receive associated alerts and notices. For the auto-response email I will choose my fictional email I have created on setup. As you click on the Access tab, you will have the option to add specific Agents to the dept; however, we haven't established any so far, which we will soon. For the time being, we can select "Create Dept".
 <p>
-<img src="https://i.imgur.com/IsVnvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/acEWfWP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
 <img src="https://i.imgur.com/IsVnvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next up, let's create a few teams. You can imagine Teams as certain Departments that have to coordinate/work with each other in some way. Go to Agents>Teams.
+Next up, let's create a few teams. You can imagine Teams as certain Departments that have to coordinate/work with each other in some way. Go to Agents>Teams>"Add New Team". I will name the Team "Threat response team". Later on, we will have the option to add a team lead. At this moment, select "Create Team".
