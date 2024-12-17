@@ -20,7 +20,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Establish Roles, as well as:
 - Departments
 - Teams
-- Establish ticket creation rules: registration requirement
 - Set up Agent and User/Customer profiles
 - SLA (Service Level Agreements), make our personaized categories
 - Create Help Topics for better communication
@@ -66,7 +65,28 @@ Why do we need Departments? They are often there in order to ensure the ticket w
 </p>
 <p>
 <p>
+<img src="https://i.imgur.com/o0EW2gc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Q2CZrAq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/tBn8CG8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/XQszoPq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+Next up, let's create a few teams. You can imagine Teams as certain Departments that have to coordinate/work with each other in some way. Go to Agents>Teams>"Add New Team". I will name the Team "Threat response team". Later on, we will have the option to add a team lead. At this moment, select "Create Team". From the Agents Panel, you may select Agents now. You will notice that the system has created a default Agent under your name. Go to "Add New" and you will be greeted with an account setup page similar to online portals you may have used before. For the purposes of this tutorial, we can keep agent details simple, adding names, for the email adress you will need a valid email format, however it will not be used in any way, and finally a fitting username. next to the username line, set the agent's password. Uncheck the box "send the agent[...]email" and you will be able to enter it. Also for the ease of this presentation, uncheck the lower box "require password change[...]". I highly suggest to write down the login info in a text document for later use. In the "Access" and "Teams" tabs you will be able to assign the previously customized departments, assign a role and add the agent to a team. For my first Agent, I have assigned all the high level admin access I had created earlier. After everything is taken care you click "create", you will see the profile at the Agents tab. Now, I will let you create a second Agent now with less access.
+<p>
+<img src="https://i.imgur.com/LKvigGd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
 <img src="https://i.imgur.com/IsVnvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next up, let's create a few teams. You can imagine Teams as certain Departments that have to coordinate/work with each other in some way. Go to Agents>Teams>"Add New Team". I will name the Team "Threat response team". Later on, we will have the option to add a team lead. At this moment, select "Create Team".
