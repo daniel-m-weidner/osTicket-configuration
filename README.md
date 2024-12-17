@@ -27,12 +27,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Detailed steps</h2>
 
 <p>
-<img src="https://i.imgur.com/OORsIs0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OORsIs0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/9x1XBS4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9x1XBS4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
@@ -44,18 +44,18 @@ To start, log in using your osTicket admin username and password. The first thin
 <br />
 
 <p>
-<img src="https://i.imgur.com/M0mgoJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M0mgoJY.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/IsVnvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IsVnvBa.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To get there, first make sure you are now in the Admin Panel. To ensure this, check if it says "Agent Panel", on the top-right, as it always links to the panel that is currently not in use. Now navigate to Agents>Roles and you will see the different levels of access that can be asssigned to specific roles. When you click on one of them, e.g. "Limited Access", and click on "Permissions", there are many options of controlling what the different levels of access mean for your use case, with helpful explanations. Go back to the Roles menu and select "Add New Role". Give the Role a clear name. In my case, I called it "Admin Lead". Now select the permissions tab and  for this role we would like Access to everything, thus we will tick every box in "Tickets", "Tabs" and "Knowledgebase". Now just click on the Yellow button "Add Role" and the role is established. Now that we have our first Role, let's create a few departments.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/2QALvW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2QALvW6.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -69,7 +69,7 @@ Why do we need Departments? They are often there in order to ensure the ticket w
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/Q2CZrAq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q2CZrAq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
@@ -95,24 +95,24 @@ Next up, let's create a few teams. You can imagine Teams as certain Departments 
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/eYt8jK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eYt8jK3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now it is time to create our first Users, which might also translate to customers. We will create two of them for this tutorial. We will now switch to the "Agent Panel" by clicking on the corresponding link at the top-right of the program. The initial test ticket can be safely deleted. Navigate to Users>Add User. All that si needed is an email address and a Name. After you have created your Users, return to the User directory and you will see all listed. Again, it is best to write down usernames for ease of use. That's all! We are close to the end of the configuration, let's configure our SLA's.
 <p>
-<img src="https://i.imgur.com/jfPo1ah.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jfPo1ah.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/MeC68ws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MeC68ws.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/uTo10y4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uTo10y4.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/qwGHMH8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qwGHMH8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Service Level Agreements (SLA) are important in efficently communicating the severity of an issue and to ensure that the most important issues are taken care of ASAP. In bigger companies it can be the case that important IT professionals are needed to be able to respond to high level issues 24/7 to ensure sensitive data is not lost to hackers for example. With many popular data breach cases, e.g. with Sony Pictures, this is very impotant nowadays.
