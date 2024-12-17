@@ -83,10 +83,43 @@ Why do we need Departments? They are often there in order to ensure the ticket w
 <p>
 Next up, let's create a few teams. You can imagine Teams as certain Departments that have to coordinate/work with each other in some way. Go to Agents>Teams>"Add New Team". I will name the Team "Threat response team". Later on, we will have the option to add a team lead. At this moment, select "Create Team". From the Agents Panel, you may select Agents now. You will notice that the system has created a default Agent under your name. Go to "Add New" and you will be greeted with an account setup page similar to online portals you may have used before. For the purposes of this tutorial, we can keep agent details simple, adding names, for the email adress you will need a valid email format, however it will not be used in any way, and finally a fitting username. next to the username line, set the agent's password. Uncheck the box "send the agent[...]email" and you will be able to enter it. Also for the ease of this presentation, uncheck the lower box "require password change[...]". I highly suggest to write down the login info in a text document for later use. In the "Access" and "Teams" tabs you will be able to assign the previously customized departments, assign a role and add the agent to a team. For my first Agent, I have assigned all the high level admin access I had created earlier. After everything is taken care you click "create", you will see the profile at the Agents tab. Now, I will let you create a second Agent now with less access.
 <p>
-<img src="https://i.imgur.com/LKvigGd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LKvigGd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/IsVnvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nKmSsJG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/w1NHKv4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/eYt8jK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now it is time to create our first Users, which might also translate to customers. We will create two of them for this tutorial. We will now switch to the "Agent Panel" by clicking on the corresponding link at the top-right of the program. The initial test ticket can be safely deleted. Navigate to Users>Add User. All that si needed is an email address and a Name. After you have created your Users, return to the User directory and you will see all listed. Again, it is best to write down usernames for ease of use. That's all! We are close to the end of the configuration, let's configure our SLA's.
+<p>
+<img src="https://i.imgur.com/jfPo1ah.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/MeC68ws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/uTo10y4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/qwGHMH8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Service Level Agreements (SLA) are important in efficently communicating the severity of an issue and to ensure that the most important issues are taken care of ASAP. In bigger companies it can be the case that important IT professionals are needed to be able to respond to high level issues 24/7 to ensure sensitive data is not lost to hackers for example. With many popular data breach cases, e.g. with Sony Pictures, this is very impotant nowadays.
+You will have to return to the admin panel. Go to Manage>SLA and click "Add new SLA plan". Choose a name first, then a custom grace period (in hours). The higher the urgency, the lower the period, afterwards the schedule. For the first priority SLA, I will use a 24/7 schedule, as someone has to respond to the ticket immediately. For priority two, I chose a 24/5 schedule (not on weekends). Now create a final SLA for less urgent cases. As you return to the SLA tab, you can see them neatly listed together.
+<p>
+<img src="https://i.imgur.com/rIPQUai.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For the last step, we set up Topics needed for the End-User. Everyone creating a ticket is then able to pick a Topic "category" to quickly let the Helpdesk know what type of issue is need of addressing. In the Admin Panel, go to Manage>Help Topics. Click on "Add New". Name the topic and select a "Parent Topic", which is a rough indicator of the User's issue. Tickets can be labeled as internal, which enables only agents to choose a certain topic if they personally open a new ticket. We can leave ours public at the moment. Create as many topics as you would like by clicking on "Add Topic" and then back on the "Help Topics" tab. After finishing your topics, you will see them in the "help topics" tab and you have the ability to move your own topics to the top for a more clear overview. Now we are finished with our initial configuration! After this setup, creating and working tickets will be a breeze, which is covered in my final osTicket segment.
+As before, if using a cloud service like Azure, do make sure you stop the Virtual Machine on the portal to prevent more costs being incurred duriing your experimenting. Make sure your notes are saved as well and you will be able to use everything for the next segment.
