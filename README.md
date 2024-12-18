@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/1ODW79g.png" height="80%" width="80%" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket: Configuration of Software Experience</h1>
+<h1>osTicket: Configuration of the Software Experience</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
