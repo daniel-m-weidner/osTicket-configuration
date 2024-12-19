@@ -104,7 +104,7 @@ From the Agents Panel, you may select Agents. You will notice that the system ha
 <img src="https://i.imgur.com/eYt8jK3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now it is time to create our first Users, which might also translate to customers. We will create two of them for this tutorial. We will now switch to the "Agent Panel" by clicking on the corresponding link at the top-right of the program. The initial test ticket can be safely deleted. Navigate to Users>Add User. All that si needed is an email address and a Name. After you have created your Users, return to the User directory and you will see all listed. Again, it is best to write down usernames for ease of use. That's all! We are close to the end of the configuration, let's configure our SLA's.
+Now it is time to create our first Users, which might also translate to customers. We will create two of them for this tutorial. We will now switch to the "Agent Panel" by clicking on the corresponding link at the top-right of the program. The initial test ticket can be safely deleted. Navigate to Users>Add User. All that is needed is an email address and a Name. After you have created your Users, return to the User directory and you will see all listed. Again, it is best to write down usernames AND email used for ease of use. That's all! We are close to the end of the configuration, let's configure our SLA's.
 <p>
 <img src="https://i.imgur.com/jfPo1ah.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
