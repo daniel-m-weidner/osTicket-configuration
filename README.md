@@ -13,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating System</h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Steps to configure osTicket after initial setup</h2>
 
