@@ -9,7 +9,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (personal Virtual Machine platform of choice) (local VM optional)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Internet Information Services (IIS) (contained within Windows)
 
 <h2>Operating System</h2>
 
