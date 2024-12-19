@@ -5,13 +5,13 @@
 <h1>osTicket: Configuration of the Software Experience</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-<h2>Environments and Technologies Used</h2>
+<h2>Operational Necessities</h2>
 
 - Microsoft Azure (personal Virtual Machine platform of choice) (local VM optional)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System</h2>
 
 - Windows 10</b> (21H2)
 
